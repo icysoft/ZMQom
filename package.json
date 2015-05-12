@@ -1,0 +1,15 @@
+{
+  "name": "ZMQom",
+  "version": "0.0.1",
+  "description": "Attempt to remote call through ZMQ DEALER/ROUTER",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "JMontupet",
+  "license": "MPLv2",
+  "dependencies": {
+    "node-uuid": "^1.4.3",
+    "zmq": "^2.11.0"
+  }
+}
